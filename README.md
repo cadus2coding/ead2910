@@ -17,4 +17,4 @@ CSS controla a aparência da página, enquanto JavaScript permite criar ações 
 ## Como executar
 Abra `index.html` no navegador com conexão à internet para carregar a imagem ilustrativa.
 
-**Observação:** este é um trabalho acadêmico demonstrativo, não um site oficial da FMP. Revise e adapte as respostas com suas próprias palavras antes de entregar.
+
