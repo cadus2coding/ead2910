@@ -1,0 +1,19 @@
+/* Define a fonte, a cor de fundo e a cor padrão dos textos. */
+body { margin: 0; font-family: Arial, sans-serif; background-color: #eaf1f7; color: #243647; }
+/* Personaliza o cabeçalho com fundo azul e texto branco. */
+header { background-color: #17456b; color: white; text-align: center; padding: 45px 20px; }
+/* Altera o tamanho do título principal. */
+h1 { font-size: 34px; margin: 0 0 12px; }
+/* Centraliza o conteúdo e cria um cartão com bordas arredondadas. */
+.cartao { max-width: 800px; margin: 35px auto; padding: 28px; background: white; border-radius: 14px; box-shadow: 0 6px 24px #163b5b20; }
+/* Faz a imagem se adaptar ao tamanho da tela. */
+img { width: 100%; height: auto; border-radius: 10px; }
+h2 { color: #17456b; font-size: 24px; }
+p, li { font-size: 17px; line-height: 1.6; }
+/* Estiliza o botão com cor, espaçamento e cantos arredondados. */
+button { background-color: #176e83; color: white; border: none; border-radius: 8px; padding: 13px 20px; font-size: 16px; cursor: pointer; }
+/* Altera a cor do botão ao passar o mouse. */
+button:hover { background-color: #104d5c; }
+#mensagem { font-weight: bold; color: #176e83; }
+footer { text-align: center; padding: 16px; color: #516170; }
+@media (max-width: 860px) { .cartao { margin: 18px; padding: 20px; } h1 { font-size: 28px; } }
